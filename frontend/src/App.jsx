@@ -1,12 +1,9 @@
-
-
-
-function App() {
+function App({pare,name}) {
 
 
   return (
     <>
-     <h1>hello</h1>
+     <h2>{pare} {name}</h2>
     </>
   )
 }
